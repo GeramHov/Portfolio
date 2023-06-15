@@ -23,7 +23,7 @@ const myNameRu = document.querySelector('.myname');
 const headerProjectRu = document.querySelector('#section-project');
 
 const appDescriptRu = document.querySelectorAll('#app-descript');
-const appDescriptRuText = ['Мини-чат приложение', 'Квиз по основам программирования','Сравнитель цен на авиабилеты','Мини-приложение для воспроизведения музыки','Игра про зоопарк','Идеальная копия веб-сайта одной страницы','Приложение для просмотра фильмов с использованием данных JSON'];
+const appDescriptRuText = ['Мини-чат приложение', 'Квиз по основам программирования','Сравнитель цен на авиабилеты','Мини-приложение для воспроизведения музыки','Игра про зоопарк','Игра Connect4 реализовано c ООП JS','Приложение для просмотра фильмов с использованием данных JSON'];
 
 const headerAboutRu = document.querySelector('#section-about');
 

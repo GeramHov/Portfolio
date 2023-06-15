@@ -21,7 +21,7 @@ const introFr = document.querySelector('#intro');
 const headerProjectFr = document.querySelector('#section-project');
 
 const appDescriptFr = document.querySelectorAll('#app-descript');
-const appDescriptFrText = ['Application de Mini-Chat', 'Quiz sur les bases de programmation','Comparateur des prix de vols','Mini-application de streaming musical','Un jeu de Zoo','Copie parfaite d\'un site web d\'une page','Application de visualisation de films utilisant des données JSON'];
+const appDescriptFrText = ['Application de Mini-Chat', 'Quiz sur les bases de programmation','Comparateur des prix de vols','Mini-application de streaming musical','Un jeu de Zoo','Jeu Puissance4 réalisé en POO JS','Application de visualisation de films utilisant des données JSON'];
 
 const headerAboutFr = document.querySelector('#section-about');
 

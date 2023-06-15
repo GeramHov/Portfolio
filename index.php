@@ -280,31 +280,32 @@
             
             <div id="cardbox" class="card w-25 rounded-0 border-0 bg-transparent py-3">
             <div class="card-body p-0 m-0">
-                <a href="https://github.com/GeramHov/YellowSASS" target="_blank">
-                    <img src="IMAGES/yellowsass.png" alt="yellowsass" style="width:100%; height:100%; object-fit:cover;">
+                <a href="https://www.connect4.projets.garage404.com/" target="_blank">
+                    <img src="IMAGES/conncect4.PNG" alt="connect4" style="width:100%; height:100%; object-fit:cover;">
                 </a>
                 </div>
-                <h6 class="text-darken text-center my-3"><q>Yellow SASS</q></h6>
-                <p id="app-descript" class="text-darken text-center"><i>Perfect copy of a one-page web site</i></p>
+                <h6 class="text-darken text-center my-3"><q>Connect 4</q></h6>
+                <p id="app-descript" class="text-darken text-center"><i>Connect4 game realized in full JS OOP</i></p>
                 <div class="d-flex justify-content-center">
                         <div class="progress-bar w-75">
-                                <div class="progress rounded-0" style="width: 97%; background-color: #cc6699;"></div>
-                                <div class="progress rounded-0" style="width: 2%; background-color: #e34c26;"></div>
-                                <div class="progress rounded-0" style="width: 1%; background-color: #f0db4f;"></div>
+                                <div class="progress rounded-0" style="width: 72%; background-color: #f0db4f;"></div>
+                                <div class="progress rounded-0" style="width: 18%; background-color: #264de4;"></div>
+                                <div class="progress rounded-0" style="width: 10%; background-color: #e34c26;"></div>
                         </div>
                     </div>
                     <div id="showbtn" class="lang mx-5 d-flex align-items-center justify-content-between">
                         <div class="d-flex">
-                            <img class="mx-1 mt-1" src="ICONS/circle-scss.png" alt="langdot" width="12" height="12">
-                            <p class="px-2 mb-2 fw-light">SASS: 97%</p> 
+                        <img class="mx-1 mt-1" src="ICONS/circle-js.png" alt="langdot" width="12" height="12">
+                            <p class="px-2 mb-2 fw-light">JS: 72%</p> 
                         </div>
                         <div class="d-flex">
-                            <img class="mx-1 mt-1" src="ICONS/circle-html.png" alt="langdot" width="12" height="12">
-                            <p class="px-2 mb-2 fw-light">HTML: 2%</p> 
+                        <img class="mx-1 mt-1" src="ICONS/circle-css.png" alt="langdot" width="12" height="12">
+                            <p class="px-2 mb-2 fw-light">CSS: 18%</p> 
+
                         </div>
                         <div class="d-flex">
-                            <img class="mx-1 mt-1" src="ICONS/circle-js.png" alt="langdot" width="12" height="12">
-                            <p class="px-2 mb-2 fw-light">JS: 1%</p> 
+                        <img class="mx-1 mt-1" src="ICONS/circle-html.png" alt="langdot" width="12" height="12">
+                            <p class="px-2 mb-2 fw-light">HTML: 10%</p> 
                         </div>
                     </div>
             </div>

@@ -22,7 +22,7 @@ const myNameHy = document.querySelector('.myname');
 const headerProjectHy = document.querySelector('#section-project');
 
 const appDescriptHy = document.querySelectorAll('#app-descript');
-const appDescriptHyText = ['Մինի-չատ հավելված', 'Ծրագրավորման հիմունքների վիկտորինա','Ավիատոմսի գների համեմատության հավելված','Երաժշտության նվագարկման վիդջեթ','Կենդանաբանական այգու խաղ','Մեկ էջանոց կայքի կատարյալ պատճեն','Ֆիլմերի հավելված՝ օգտագործելով JSON տիպի տվյալները'];
+const appDescriptHyText = ['Մինի-չատ հավելված', 'Ծրագրավորման հիմունքների վիկտորինա','Ավիատոմսի գների համեմատության հավելված','Երաժշտության նվագարկման վիդջեթ','Կենդանաբանական այգու խաղ','Խաղ Connect4 օգտագործելով OOP JS','Ֆիլմերի հավելված՝ օգտագործելով JSON տիպի տվյալները'];
 
 const headerAboutHy = document.querySelector('#section-about');
 

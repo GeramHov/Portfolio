@@ -23,9 +23,9 @@ const headerProjectFr = document.querySelector("#section-project");
 const appDescriptFr = document.querySelectorAll("#app-descript");
 const appDescriptFrText = [
   "Application de Mini-Chat",
-  "Quiz sur les bases de programmation",
   "Comparateur des prix de vols",
   "Mini-application de streaming musical",
+  "Mini-site de configuration de voitures",
   "Un jeu de Zoo",
   "Jeu Puissance4 réalisé en POO JS",
   "Application de visualisation de films utilisant des données JSON",

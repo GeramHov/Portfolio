@@ -25,12 +25,12 @@ const headerProjectRu = document.querySelector("#section-project");
 const appDescriptRu = document.querySelectorAll("#app-descript");
 const appDescriptRuText = [
   "Мини-чат приложение",
-  "Квиз по основам программирования",
   "Сравнитель цен на авиабилеты",
   "Мини-приложение для воспроизведения музыки",
+  "Конструктор машины Alpine с использованием Angular и RxJS.",
+  "Проект API, разработанный в Angular и переделан в Vue.js.",
   "Игра про зоопарк",
   "Игра Connect4 реализовано c ООП JS",
-  "Приложение для просмотра фильмов с использованием данных JSON",
 ];
 
 const headerAboutRu = document.querySelector("#section-about");

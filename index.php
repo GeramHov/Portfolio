@@ -268,6 +268,39 @@
 
             <div id="cardbox" class="card w-25 rounded-0 border-0 bg-transparent py-3">
                 <div class="card-body p-0 m-0">
+                    <a href="https://meteo-widget-sable.vercel.app/" target="_blank">
+                        <img src="IMAGES/meteo.png" alt="meteo"
+                            style="width:100%; height:100%; object-fit:cover;">
+                    </a>
+                </div>
+                <h6 class="text-darken text-center my-3"><q>Meteo Widget</q></h6>
+                <p id="app-descript" class="text-darken text-center"><i>API project developed in Angular and refactored in Vue.js</i>
+                </p>
+                <div class="d-flex justify-content-center">
+                    <div class="progress-bar w-75">
+                        <div class="progress rounded-0" style="width: 89%; background-color: #42b883;"></div>
+                        <div class="progress rounded-0" style="width: 7%; background-color: #f0db4f;"></div>
+                        <div class="progress rounded-0" style="width: 4%; background-color: #e34c26;"></div>
+                    </div>
+                </div>
+                <div id="showbtn" class="lang mx-5 d-flex align-items-center justify-content-between">
+                    <div class="d-flex">
+                        <img class="mx-1 mt-1" src="ICONS/circle-vue.png" alt="langdot" width="12" height="12">
+                        <p class="px-2 mb-2 fw-light">Vue: 89%</p>
+                    </div>
+                    <div class="d-flex">
+                        <img class="mx-1 mt-1" src="ICONS/circle-js.png" alt="langdot" width="12" height="12">
+                        <p class="px-2 mb-2 fw-light">JS: 7%</p>
+                    </div>
+                    <div class="d-flex">
+                        <img class="mx-1 mt-1" src="ICONS/circle-html.png" alt="langdot" width="12" height="12">
+                        <p class="px-2 mb-2 fw-light">HTML: 4%</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="cardbox" class="card w-25 rounded-0 border-0 bg-transparent py-3">
+                <div class="card-body p-0 m-0">
                     <a href="https://www.gueram-zoo.projets.garage404.com/index.php" target="_blank">
                         <img src="IMAGES/zoo.png" alt="zoo" style="width:100%; height:100%; object-fit:cover;">
                     </a>
@@ -330,38 +363,7 @@
                 </div>
             </div>
 
-            <div id="cardbox" class="card w-25 rounded-0 border-0 bg-transparent py-3">
-                <div class="card-body p-0 m-0">
-                    <a href="https://github.com/GeramHov/Projet-allo-cine" target="_blank">
-                        <img src="IMAGES/allocine.png" alt="allocine"
-                            style="width:100%; height:100%; object-fit:cover;">
-                    </a>
-                </div>
-                <h6 class="text-darken text-center my-3"><q>Allo Ciné</q></h6>
-                <p id="app-descript" class="text-darken text-center"><i>Movies showing application using JSON data</i>
-                </p>
-                <div class="d-flex justify-content-center">
-                    <div class="progress-bar w-75">
-                        <div class="progress rounded-0" style="width: 50%; background-color: #e34c26;"></div>
-                        <div class="progress rounded-0" style="width: 40%; background-color: #264de4;"></div>
-                        <div class="progress rounded-0" style="width: 10%; background-color: #f0db4f;"></div>
-                    </div>
-                </div>
-                <div id="showbtn" class="lang mx-5 d-flex align-items-center justify-content-between">
-                    <div class="d-flex">
-                        <img class="mx-1 mt-1" src="ICONS/circle-html.png" alt="langdot" width="12" height="12">
-                        <p class="px-2 mb-2 fw-light">HTML: 50%</p>
-                    </div>
-                    <div class="d-flex">
-                        <img class="mx-1 mt-1" src="ICONS/circle-css.png" alt="langdot" width="12" height="12">
-                        <p class="px-2 mb-2 fw-light">CSS: 40%</p>
-                    </div>
-                    <div class="d-flex">
-                        <img class="mx-1 mt-1" src="ICONS/circle-js.png" alt="langdot" width="12" height="12">
-                        <p class="px-2 mb-2 fw-light">JS: 10%</p>
-                    </div>
-                </div>
-            </div>
+           
 
             <img id="rightarrowbtn" src="ICONS/rightarrow.png" alt="arrowright">
 

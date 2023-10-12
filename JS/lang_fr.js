@@ -26,9 +26,9 @@ const appDescriptFrText = [
   "Comparateur des prix de vols",
   "Mini-application de streaming musical",
   "Mini-site de configuration de voitures",
+  "Projet API développé en Angular et refactorisé en Vue.js",
   "Un jeu de Zoo",
   "Jeu Puissance4 réalisé en POO JS",
-  "Application de visualisation de films utilisant des données JSON",
 ];
 
 const headerAboutFr = document.querySelector("#section-about");

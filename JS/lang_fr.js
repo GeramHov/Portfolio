@@ -66,7 +66,7 @@ firstFlagLinkFr.addEventListener("click", function (event) {
   talkFr.innerText = "A bientôt!";
 
   cvFr.innerText = " Voir mon CV";
-  resumeFr.href = "./CV/gueram hovhannisyan.pdf";
+  resumeFr.href = "./CV/gueram_hovhannisyan_cv_francais.pdf";
 
   introFr.innerText =
     "Actuellement en formation de développement web et travaillant sur le développement de mes compétences en HTML, CSS, JavaScript, PHP et d'autres langages de programmation";
